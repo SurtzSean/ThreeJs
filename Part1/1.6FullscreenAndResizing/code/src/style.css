@@ -1,0 +1,18 @@
+/* leaves scrollbar */
+
+/* *
+{
+    margin: 0;
+    padding: 0;
+} */ 
+.webgl {
+    position: fixed; /*can use absolute as well*/
+    top: 0;
+    left: 0;
+    outline: none;
+    overflow: hidden;
+}
+html,body
+{
+    overflow:hidden;
+}
