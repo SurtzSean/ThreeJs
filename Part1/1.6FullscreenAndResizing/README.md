@@ -13,3 +13,5 @@ constructors like apple built screens with pixel ratio with 2
 now some have even highe rpixel ratios like beyond 3
 
 pixel ratio of 2 means 4 times more pixels to render & 3 means 9 times more pixels to render
+highest pixel ratios are on the weakest devices
+window.devicePixelRatio handles the pixel ratio

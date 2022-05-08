@@ -19,3 +19,5 @@ depth size on z axis
 widthSegments - subdivisions in x axis
 heightSegments - y
 depthSegments - z
+
+subdivisons relate to how many triangles per face
